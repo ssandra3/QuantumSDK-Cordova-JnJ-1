@@ -1,0 +1,13 @@
+QuantumSDK-Cordova-Changes-Notes
+
+1.0.6
+- Added configuration for Zebra engine Data matrix Inverse - Auto Detect
+
+1.0.5
+- Added support for newer model devices.
+
+1.0.4
+- Added handling barcodes with special escape sequences before sending to JS.
+
+1.0.3
+- Added ksn data to 'magneticCardPPADDUKPTSeparate' and 'magneticCardIDTECH'
